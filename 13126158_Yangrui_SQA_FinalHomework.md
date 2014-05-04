@@ -5,7 +5,7 @@ I did Java development for China Unicom Electronic Sale System (ESS) as intern f
 
 Software quality involves developers, customers, project managers, and other aspects. The focus of different people is various. For customers, the quality is in line with their requirements; for developers, the quality is in accordance with predetermined functions, procedures or completion development according to the specification; for the project managers, quality is to accomplish on the project schedule and at cost, and software must meet the user’s demand. In order to ensure software quality better, from my point of view, the following are important in Electronic Sale System.
 
-**Make project plan and risk assessment**
+**Make Project Plan and Risk Assessment**
 
 Our customer is China Unicom, every process must be detailed and let customers know. For ensuring the quality of project we have to design the project plan firstly when we start the project. 
 
